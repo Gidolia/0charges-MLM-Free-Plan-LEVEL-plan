@@ -1,0 +1,2 @@
+[15-Oct-2019 17:18:07 Etc/GMT] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/gidolzbk/public_html/gidolia/freeplan/ibo_panel/production/include/sidebar.php on line 17
+[15-Oct-2019 17:18:07 Etc/GMT] PHP Notice:  Undefined variable: d_info in /home/gidolzbk/public_html/gidolia/freeplan/ibo_panel/production/include/sidebar.php on line 17
